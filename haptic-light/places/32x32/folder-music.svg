@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <defs>
     <linearGradient id="folder-front" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#64B5F6"/> <!-- Blue 300 -->
-      <stop offset="100%" style="stop-color:#42A5F5"/> <!-- Blue 400 -->
+      <stop offset="0%" style="stop-color:#FFB300"/> <!-- Blue 300 -->
+      <stop offset="100%" style="stop-color:#FFA000"/> <!-- Blue 400 -->
     </linearGradient>
     <style type="text/css">
-      .folder-back { fill: #1976D2 /* Blue 700 */ }
+      .folder-back { fill: #F57C00 /* Blue 700 */ }
       .folder-front { fill: url(#folder-front) }
       .symbol { fill: black; opacity: 0.5 }
       .lighten { fill: white; fill-opacity: 0.125 }

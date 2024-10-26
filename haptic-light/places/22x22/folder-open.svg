@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
   <defs>
     <style type="text/css">
-      .folder-back { fill: #1976D2 /* Blue 700 */ }
-      .folder-front { fill: #42A5F5 /* Blue 400 */ }
+      .folder-back { fill: #F57C00 /* Blue 700 */ }
+      .folder-front { fill: #FFA000 /* Blue 400 */ }
     </style>
   </defs>
   <g transform="translate(-1,-1)">
