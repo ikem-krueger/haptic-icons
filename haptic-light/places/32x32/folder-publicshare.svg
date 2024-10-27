@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="folder-publicshare.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="25.625"
+     inkscape:cx="16.019512"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="folder-front"
+       x1="0%"
+       y1="0%"
+       x2="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#FFB300"
+         id="stop1" />
+      <!-- Blue 300 -->
+      <stop
+         offset="100%"
+         style="stop-color:#FFA000"
+         id="stop2" />
+      <!-- Blue 400 -->
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style2">
+      .folder-back { fill: #F57C00 /* Blue 700 */ }
+      .folder-front { fill: url(#folder-front) }
+      .symbol { fill: black; opacity: 0.5 }
+      .lighten { fill: white; fill-opacity: 0.125 }
+      .darken { fill: black; fill-opacity: 0.125 }
+    </style>
+  </defs>
+  <!-- Folder -->
+  <path
+     class="folder-back"
+     d="m 3,8 a 2,2 0 0 1 2,-2 h 6 c 2,0 2,0 4,2 l 1,1 h 11 a 2,2 0 0 1 2,2 v 2 a 2,2 0 0 0 -2,-2 h -22 a 2,2 0 0 0 -2,2"
+     id="path2" />
+  <path
+     class="darken"
+     d="m 5,9 a 3,3 0 0 0 -2,0.76 v 2.24 a 2,2 0 0 1 2,-2 h 22 a 2,2 0 0 1 2,2 v -2.24 a 3,3 0 0 0 -2,-0.76"
+     id="path3" />
+  <rect
+     class="folder-front"
+     x="3"
+     y="10"
+     width="26"
+     height="16"
+     rx="2"
+     ry="2"
+     id="rect3" />
+  <path
+     class="lighten"
+     d="m 5,10 a 2,2 0 0 0 -2,2 a 2,1 0 0 1 2,-1 h 22 a 2,1 0 0 1 2,1 a 2,2 0 0 0 -2,-2"
+     id="path4" />
+  <path
+     class="darken"
+     d="m 5,25 a 2,1 0 0 1 -2,-1 a 2,2 0 0 0 2,2 h 22 a 2,2 0 0 0 2,-2 a 2,1 0 0 1 -2,1"
+     id="path5" />
+  <!-- Symbol (12x12) -->
+  <path
+     style="color:#232629;font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.493711;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     d="m 14.5,13.125 c -1.1,0 -2,0.8775 -2,1.95 0,1.0725 0.9,1.95 2,1.95 1.1,0 2,-0.8775 2,-1.95 0,-1.0725 -0.9,-1.95 -2,-1.95 z m 4.5,0.4875 c -0.85,0 -1.5,0.63375 -1.5,1.4625 0,0.82875 0.65,1.4625 1.5,1.4625 0.85,0 1.5,-0.63375 1.5,-1.4625 0,-0.82875 -0.65,-1.4625 -1.5,-1.4625 z m 0,3.4125 c -0.55,0 -1.05,0.195 -1.4,0.585 0.962347,0.855447 1.330204,1.632535 1.4,2.8275 v 0.4875 h 2 v -1.95 c 0,-1.0725 -0.9,-1.95 -2,-1.95 z m -4.5,0.4875 c -1.95,0 -3.5,1.51125 -3.5,3.4125 v 1.95 h 7 v -1.95 c 0,-1.90125 -1.55,-3.4125 -3.5,-3.4125 z"
+     class="ColorScheme-Text"
+     id="path5-6"
+     sodipodi:nodetypes="sssssssssssccccssssccss" />
+</svg>

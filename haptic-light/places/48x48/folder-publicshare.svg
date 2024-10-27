@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="folder-publicshare.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="17.083333"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="folder-front"
+       x1="3.0983867"
+       y1="19.364917"
+       x2="3.0983867"
+       y2="50.348784"
+       gradientTransform="scale(1.2909944,0.77459667)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#FFB300"
+         id="stop1" />
+      <!-- Orange 600 -->
+      <stop
+         offset="100%"
+         style="stop-color:#FFA000"
+         id="stop2" />
+      <!-- Orange 700 -->
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style2">
+      .folder-back { fill: #F57C00 /* Orange 900 */ }
+      .folder-front { fill: url(#folder-front) }
+      .lighten { fill: white; fill-opacity: 0.125 }
+      .darken { fill: black; fill-opacity: 0.125 }
+    </style>
+    <linearGradient
+       id="folder-front-3"
+       x1="4.7067871"
+       y1="25.495098"
+       x2="4.7067871"
+       y2="66.287254"
+       gradientTransform="matrix(0.98058069,0,0,0.5883484,-0.61538464,0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#FFB300"
+         id="stop1-6" />
+      <!-- Blue 300 -->
+      <stop
+         offset="100%"
+         style="stop-color:#FFA000"
+         id="stop2-7" />
+      <!-- Blue 400 -->
+    </linearGradient>
+  </defs>
+  <path
+     class="folder-back"
+     d="M 4,11.0025 A 2.0538462,2.0025 0 0 1 6.0538461,9 H 17.846154 c 1.538461,0 1.538461,0 3.076923,1.5 L 24,13.5 H 41.946154 A 2.0538462,2.0025 0 0 1 44,15.5025 v 1.5 A 2.0538462,2.0025 0 0 0 41.946154,15 H 6.0538461 A 2.0538462,2.0025 0 0 0 4,17.0025"
+     id="path2-5"
+     style="fill:#f57c00;stroke-width:0.759555" />
+  <rect
+     class="folder-front"
+     x="4"
+     y="15"
+     width="40"
+     height="24"
+     rx="2.0538461"
+     ry="2.0025001"
+     id="rect3-3"
+     style="fill:url(#folder-front-3);stroke-width:0.759555" />
+  <path
+     class="lighten"
+     d="M 6.0538461,15 A 2.0538462,2.0025 0 0 0 4,17.0025 2.0538462,1.2525 0 0 1 6.0538461,15.75 H 41.946154 A 2.0538462,1.2525 0 0 1 44,17.0025 2.0538462,2.0025 0 0 0 41.946154,15"
+     id="path4-5"
+     style="fill:#ffffff;fill-opacity:0.125;stroke-width:0.759555" />
+  <path
+     style="color:#232629;font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.759555;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     d="m 21.692308,20.25 c -1.692308,0 -3.076923,1.35 -3.076923,3 0,1.65 1.384615,3 3.076923,3 1.692307,0 3.076923,-1.35 3.076923,-3 0,-1.65 -1.384616,-3 -3.076923,-3 z M 28.615385,21 c -1.307693,0 -2.307693,0.975 -2.307693,2.25 0,1.275 1,2.25 2.307693,2.25 1.307692,0 2.307692,-0.975 2.307692,-2.25 0,-1.275 -1,-2.25 -2.307692,-2.25 z m 0,5.25 c -0.846154,0 -1.615385,0.3 -2.153847,0.9 1.480534,1.316073 2.046469,2.511593 2.153847,4.35 v 0.75 h 3.076923 v -3 c 0,-1.65 -1.384616,-3 -3.076923,-3 z M 21.692308,27 c -3,0 -5.384616,2.325 -5.384616,5.25 v 3 h 10.769231 v -3 c 0,-2.925 -2.384615,-5.25 -5.384615,-5.25 z"
+     class="ColorScheme-Text"
+     id="path5-6"
+     sodipodi:nodetypes="sssssssssssccccssssccss" />
+</svg>
